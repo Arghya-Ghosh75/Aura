@@ -1,9 +1,9 @@
 ![ExtensryNBg](https://user-images.githubusercontent.com/80476561/169452249-63670a4d-42e1-45b5-a9b8-fe31b5c21da7.png)
 
 
-# Extensry
+# Aura
 
-[Extensry](https://extensry.netlify.app/) is a super cool browser extension that greets you with a message according to the time of the day and shows different background on page refresh. With Extensry you can set your main/focus task of the day ansd also create your own todo.
+[Aura](https://extensry.netlify.app/) is a super cool browser extension that greets you with a message according to the time of the day and shows different background on page refresh. With Extensry you can set your main/focus task of the day ansd also create your own todo.
 
 
 ## List of features
